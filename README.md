@@ -137,3 +137,5 @@ GROUP BY SP.Country;
 - **Error Handling**: Graceful error handling with transaction rollback
 - **Connection Management**: Proper database connection handling
 
+## NOTE:
+- please download and view the pdf files for better image quality.
